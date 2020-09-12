@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Amazon-app/static/css/main.026906af.chunk.css",
+    "main.js": "/Amazon-app/static/js/main.3c500d1e.chunk.js",
+    "main.js.map": "/Amazon-app/static/js/main.3c500d1e.chunk.js.map",
+    "runtime-main.js": "/Amazon-app/static/js/runtime-main.f48b9a74.js",
+    "runtime-main.js.map": "/Amazon-app/static/js/runtime-main.f48b9a74.js.map",
+    "static/js/2.8f207bdf.chunk.js": "/Amazon-app/static/js/2.8f207bdf.chunk.js",
+    "static/js/2.8f207bdf.chunk.js.map": "/Amazon-app/static/js/2.8f207bdf.chunk.js.map",
+    "index.html": "/Amazon-app/index.html",
+    "precache-manifest.cacbe1531c4d70d8898a134a13cd7845.js": "/Amazon-app/precache-manifest.cacbe1531c4d70d8898a134a13cd7845.js",
+    "service-worker.js": "/Amazon-app/service-worker.js",
+    "static/css/main.026906af.chunk.css.map": "/Amazon-app/static/css/main.026906af.chunk.css.map",
+    "static/js/2.8f207bdf.chunk.js.LICENSE.txt": "/Amazon-app/static/js/2.8f207bdf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f48b9a74.js",
+    "static/js/2.8f207bdf.chunk.js",
+    "static/css/main.026906af.chunk.css",
+    "static/js/main.3c500d1e.chunk.js"
+  ]
+}
